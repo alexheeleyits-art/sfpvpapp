@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/battle-state.json",
+      "destination": "/api/battle-state"
+    }
+  ]
+}

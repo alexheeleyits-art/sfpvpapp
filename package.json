@@ -1,0 +1,11 @@
+{
+  "name": "battle-webhook",
+  "private": true,
+  "description": "Shopify battle webhook for Sweet vs Savoury",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@vercel/kv": "^1.0.1"
+  }
+}
